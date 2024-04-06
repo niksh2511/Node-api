@@ -1,5 +1,5 @@
 export default class ServerConfig {
 
-    static baseServerUrl =  'http://localhost:5000/';
+    static baseServerUrl =  'https://frame-vugf.onrender.com/';
     static imagePath = 'api/image/'
 }
