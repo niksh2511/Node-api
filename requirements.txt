@@ -1,0 +1,9 @@
+Flask
+openai
+xlsxwriter
+boto3
+aws-lambda-wsgi
+pydantic
+
+
+
